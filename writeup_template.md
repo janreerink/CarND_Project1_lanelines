@@ -34,8 +34,7 @@ This did not work well when the Hough transform found smaller line segments with
 to determine the side the line belongs to. Attempts to make the pipeline work on the more challenging video led to more parameter fine-tuning, still does not work perfectly though.
 
 
-![example][test_images_output/mod_solidYellowCurve2.jpg]
-
+![example](https://github.com/janreerink/carnd_p1/tree/master/test_images_output/t2.png)
 
 
 
